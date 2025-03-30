@@ -1,0 +1,37 @@
+# ninja log v6
+2	53	7650613049361943	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	891046fbf9d54170
+13738	13871	7650613186266528	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	a9d3b0128feac388
+14134	14202	7650613190852775	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	4edc28e1d0b8b8e3
+13871	13937	7650613188207075	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	494918539eb9faf0
+2	53	7650613049361943	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	891046fbf9d54170
+53	13738	7650613186206532	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	53ca7e43db8234d3
+53	13738	7650613186206532	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	53ca7e43db8234d3
+13986	14035	7650613189182203	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	8bd924d712f958c2
+13871	13937	7650613188207075	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	494918539eb9faf0
+13738	13871	7650613186266528	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	a9d3b0128feac388
+13937	13986	7650613188690529	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	43830de9b6f1c625
+13937	13986	7650613188690529	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	43830de9b6f1c625
+13986	14035	7650613189182203	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	8bd924d712f958c2
+14035	14085	7650613189682221	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	3d258c3e4d6d17d1
+14035	14085	7650613189682221	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	3d258c3e4d6d17d1
+14086	14134	7650613190172768	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	132b75091925b013
+14086	14134	7650613190172768	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	132b75091925b013
+14134	14202	7650613190852775	CMakeFiles/freetype-populate-complete	4edc28e1d0b8b8e3
+14134	14202	7650613190852775	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	4edc28e1d0b8b8e3
+14134	14202	7650613190852775	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	4edc28e1d0b8b8e3
+9	132	7650613656011530	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	a9d3b0128feac388
+9	132	7650613656011530	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	a9d3b0128feac388
+133	184	7650613657712628	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	494918539eb9faf0
+133	184	7650613657712628	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	494918539eb9faf0
+184	233	7650613658203217	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	43830de9b6f1c625
+184	233	7650613658203217	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	43830de9b6f1c625
+233	283	7650613658704093	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	8bd924d712f958c2
+233	283	7650613658704093	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	8bd924d712f958c2
+283	332	7650613659194835	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	3d258c3e4d6d17d1
+283	332	7650613659194835	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	3d258c3e4d6d17d1
+333	383	7650613659695682	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	132b75091925b013
+333	383	7650613659695682	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	132b75091925b013
+383	451	7650613660386311	CMakeFiles/freetype-populate-complete	4edc28e1d0b8b8e3
+383	451	7650613660386311	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	4edc28e1d0b8b8e3
+383	451	7650613660386311	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	4edc28e1d0b8b8e3
+383	451	7650613660386311	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	4edc28e1d0b8b8e3

@@ -1,0 +1,37 @@
+# ninja log v6
+2	63	7650612700691161	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	a5bb11d17d297e4b
+2	63	7650612700691161	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	a5bb11d17d297e4b
+63	31652	7650613016600016	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	4777b9e8a50ba1fc
+63	31652	7650613016600016	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	4777b9e8a50ba1fc
+31652	31788	7650613016660041	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	6229d05139529385
+31838	31887	7650613018962969	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	3500453a43b57461
+31788	31837	7650613018462256	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	20423b9bb9d290d9
+31652	31788	7650613016660041	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	6229d05139529385
+31788	31837	7650613018462256	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	20423b9bb9d290d9
+31838	31887	7650613018962969	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	3500453a43b57461
+31887	31936	7650613019443656	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	dac2839e9690b2f5
+31887	31936	7650613019443656	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	dac2839e9690b2f5
+31936	31986	7650613019944893	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	a72d8d992b6ec2ad
+31986	32033	7650613020416243	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	d6291261eeefd8b7
+31936	31986	7650613019944893	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	a72d8d992b6ec2ad
+31986	32033	7650613020416243	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	d6291261eeefd8b7
+32034	32104	7650613021116953	CMakeFiles/sfml-populate-complete	4f713705d8079890
+32034	32104	7650613021116953	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	4f713705d8079890
+32034	32104	7650613021116953	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	4f713705d8079890
+32034	32104	7650613021116953	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	4f713705d8079890
+10	141	7650613648501008	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	6229d05139529385
+10	141	7650613648501008	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	6229d05139529385
+142	194	7650613650291812	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	20423b9bb9d290d9
+142	194	7650613650291812	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	20423b9bb9d290d9
+194	250	7650613650803152	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	3500453a43b57461
+194	250	7650613650803152	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	3500453a43b57461
+250	304	7650613651383747	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	dac2839e9690b2f5
+250	304	7650613651383747	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	dac2839e9690b2f5
+304	358	7650613651934248	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	a72d8d992b6ec2ad
+304	358	7650613651934248	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	a72d8d992b6ec2ad
+358	411	7650613652455385	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	d6291261eeefd8b7
+358	411	7650613652455385	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	d6291261eeefd8b7
+411	481	7650613653166059	CMakeFiles/sfml-populate-complete	4f713705d8079890
+411	481	7650613653166059	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	4f713705d8079890
+411	481	7650613653166059	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	4f713705d8079890
+411	481	7650613653166059	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	4f713705d8079890

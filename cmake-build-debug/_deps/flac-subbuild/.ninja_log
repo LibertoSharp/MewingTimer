@@ -1,0 +1,37 @@
+# ninja log v6
+2	66	7650613287516379	flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	f45a9d8fd28f1d80
+2	66	7650613287516379	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-mkdir	f45a9d8fd28f1d80
+3380	3525	7650613320726155	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	292633fd0d3677ac
+66	3380	7650613320666166	flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	c7759e31d6493994
+3525	3599	7650613322856750	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	12c73c7603cdf8d3
+66	3380	7650613320666166	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-download	c7759e31d6493994
+3380	3525	7650613320726155	flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	292633fd0d3677ac
+3525	3599	7650613322856750	flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	12c73c7603cdf8d3
+3599	3654	7650613323407393	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	2b35b220f6f73c46
+3599	3654	7650613323407393	flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	2b35b220f6f73c46
+3654	3713	7650613323988061	flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	83f421e09b7bed91
+3654	3713	7650613323988061	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	83f421e09b7bed91
+3829	3904	7650613325903969	CMakeFiles/flac-populate-complete	1399914ffc645b60
+3713	3772	7650613324578745	flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	e52b4f08aeb95c7e
+3713	3772	7650613324578745	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	e52b4f08aeb95c7e
+3772	3829	7650613325150743	flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	a1c58c8b3bb27a52
+3772	3829	7650613325150743	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	a1c58c8b3bb27a52
+3829	3904	7650613325903969	flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	1399914ffc645b60
+3829	3904	7650613325903969	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/CMakeFiles/flac-populate-complete	1399914ffc645b60
+3829	3904	7650613325903969	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	1399914ffc645b60
+9	129	7650613670067367	flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	292633fd0d3677ac
+9	129	7650613670067367	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-update	292633fd0d3677ac
+129	184	7650613671740121	flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	12c73c7603cdf8d3
+129	184	7650613671740121	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-patch	12c73c7603cdf8d3
+184	234	7650613672270125	flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	2b35b220f6f73c46
+184	234	7650613672270125	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-configure	2b35b220f6f73c46
+234	283	7650613672760761	flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	83f421e09b7bed91
+234	283	7650613672760761	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-build	83f421e09b7bed91
+283	334	7650613673262237	flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	e52b4f08aeb95c7e
+283	334	7650613673262237	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-install	e52b4f08aeb95c7e
+335	386	7650613673782813	flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	a1c58c8b3bb27a52
+335	386	7650613673782813	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-test	a1c58c8b3bb27a52
+387	460	7650613674523657	CMakeFiles/flac-populate-complete	1399914ffc645b60
+387	460	7650613674523657	flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	1399914ffc645b60
+387	460	7650613674523657	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/CMakeFiles/flac-populate-complete	1399914ffc645b60
+387	460	7650613674523657	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/flac-subbuild/flac-populate-prefix/src/flac-populate-stamp/flac-populate-done	1399914ffc645b60

@@ -1,0 +1,37 @@
+# ninja log v6
+1	54	7650613195002373	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	f303f8fedf94e4f3
+54	1942	7650613213883391	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	2f2269e387cfe6cf
+1	54	7650613195002373	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	f303f8fedf94e4f3
+1942	2076	7650613213933369	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	3f374ae28ae99c43
+54	1942	7650613213883391	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	2f2269e387cfe6cf
+2341	2414	7650613218604737	CMakeFiles/ogg-populate-complete	9e0bbdd80391e071
+1942	2076	7650613213933369	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	3f374ae28ae99c43
+2076	2134	7650613215813335	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	28bde82ca97d159e
+2076	2134	7650613215813335	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	28bde82ca97d159e
+2183	2235	7650613216804022	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	9e93e9f2779ac130
+2134	2183	7650613216294016	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	2aae3b33c8647f38
+2235	2287	7650613217334013	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	f5991fa0cebff49c
+2134	2183	7650613216294016	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	2aae3b33c8647f38
+2183	2235	7650613216804022	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	9e93e9f2779ac130
+2235	2287	7650613217334013	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	f5991fa0cebff49c
+2287	2341	7650613217874010	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	6df435e8fcf65b7c
+2287	2341	7650613217874010	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	6df435e8fcf65b7c
+2341	2414	7650613218604737	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	9e0bbdd80391e071
+2341	2414	7650613218604737	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete	9e0bbdd80391e071
+2341	2414	7650613218604737	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	9e0bbdd80391e071
+9	134	7650613663318147	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	3f374ae28ae99c43
+9	134	7650613663318147	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	3f374ae28ae99c43
+134	187	7650613665052286	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	28bde82ca97d159e
+134	187	7650613665052286	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	28bde82ca97d159e
+187	236	7650613665552862	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	2aae3b33c8647f38
+187	236	7650613665552862	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	2aae3b33c8647f38
+236	285	7650613666034377	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	9e93e9f2779ac130
+236	285	7650613666034377	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	9e93e9f2779ac130
+285	333	7650613666514921	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	f5991fa0cebff49c
+285	333	7650613666514921	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	f5991fa0cebff49c
+333	382	7650613667005531	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	6df435e8fcf65b7c
+333	382	7650613667005531	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	6df435e8fcf65b7c
+382	451	7650613667696092	CMakeFiles/ogg-populate-complete	9e0bbdd80391e071
+382	451	7650613667696092	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	9e0bbdd80391e071
+382	451	7650613667696092	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete	9e0bbdd80391e071
+382	451	7650613667696092	C:/Users/lucav/CLionProjects/Mewing Timer/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	9e0bbdd80391e071
